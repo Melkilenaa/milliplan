@@ -3,7 +3,7 @@
 
   let posts = [
     {
-      name: "Post 1",
+      name: "Post 33",
       content:
         "This is the content of post 1. This is the content of post 1. This is the content of post 1. This is the content of post 1. This is the content of post 1. This is the content of post 1",
       date: "2021-09-01",
